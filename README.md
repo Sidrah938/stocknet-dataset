@@ -7,7 +7,7 @@ Yumo Xu and Shay B. Cohen. 2018. [Stock Movement Prediction from Tweets and Hist
 
 You might also be interested in [our code](https://github.com/yumoxu/stocknet-code) for stock movement prediction. 
 
-Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk).
+Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:engr.sidrahijaz@gmail.com).
 
 ## Dataset Overview
 Two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in **StockTable**, a facsimile of the paper appendix **appendix\_table\_of\_target\_stocks.pdf**.
